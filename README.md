@@ -34,7 +34,7 @@ Website: https://invertedbuttonstudios.com/
 
 ## Project Status
 
-Released on Steam.
+Released on Steam: https://store.steampowered.com/app/4075890/SporeWar_RotRising
 
 ## Repository
 
